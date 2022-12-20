@@ -12,7 +12,7 @@ Contact me:
 # Summary
 15+ years in the industry of creating, migrating, and maintaining reliable software solutions. I focus on product quality, delivery schedule and long-term maintainability. I believe myself to be good at establishing best coding practices. I have a keen eye for details that helps to improve product consistency. I'm passionate about building great UIs through small and predictable iterations based on customers feedback.
 
-# Personality traits
+# Personality Traits
 - **Responsibility.** I take full ownership of assigned tasks and features regardless of their size and importance.
 - **Transparency.** I communicate clearly and timely the state of development process: pending questions, blocking problems, insufficient expertise, possible workarounds etc. 
 - **Persistance.** I make sure development time is stable and predictable. Staying positive while overcoming difficulties is an essential skill. I'm not afraid to say that I don't know something or stuck at the moment, it's just a matter of planning for more iterations.     
@@ -53,7 +53,7 @@ Contact me:
 - Experience in legacy browsers support (IE9 mainly) and migration of legacy code bases to React.
 - Understand that small things do matter. Starting from naming function, variables, routes and API endpoints to text wording, consistent language, truncations, paddings, responsiveness etc.
 
-# Technical stack
+# Technical Stack
 - TypeScript, JavaScript
 - React JS, React Router, Redux, Redux Observables, Redux Toolkit, react-use
 - React Table, Final Form
@@ -136,7 +136,7 @@ Scoreboard administration console for St.Petersburg Open Tennis Cup:
 - **Prototypes**. Encourage UX / designers to save their time doing pixel-perfect mockups. Instead, let's come up with patterns / design systems that we can use as a dictionary to communicate core business values and ideas behind every page / feature in a more productive way. If it is easier to make a prototype on the front-end side and then work out from there - let’s do it. It takes time but it pays off in the long term.
 - **Remote work.** I have 2+ years experience of working fully remote. While it proved to have no impact on productivity and delivery schedule it makes you miss people in the office a lot. The best option would be to have flexible schedule that imply having important discussions face-to-face and occasional socialization in the office while regular work activities could be held remotely.
 
-### Programming languages evolution
+### Programming Languages Evolution
 Basic > Delphi Pascal > C# > C++ > JavaScript > TypeScript 
 
 # What Else?
