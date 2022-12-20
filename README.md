@@ -30,7 +30,7 @@ Contact me:
 - Translate high-level business ideas into technical design and requirements. 
 ## Programming
 - Design patterns (and anti-patterns) and principles for clean and maintainable code. I believe keeping knowledge of fundamentals in a good shape helps tremendously when it comes to moving to new frameworks and technologies.
-- 4+ experience with TypeScript. I came from the world of statically typed languages but using TypeScript is something that I enjoy even more. I like how practical it is and how it tries to help developers rather then enforce certain rules on them. 
+- 4+ experience with TypeScript. I came from the world of statically typed languages but using TypeScript is something that I enjoy even more. I like how practical it is and how it tries to help developers rather than enforce certain rules on them. 
 - Experience in creating and maintaining a library of UI components shared between multiple products (React + Typescript). Not only it allows to speed up development process but also increases productivity of communication with UX team.  
 - Embraced React hooks, functional components and declarative approach that comes with them early on. Understand the drawbacks and caveats too.
 - Solid understanding of state management problems. I know by experience what usually belongs to local and global states. What should be persistent. When and how libraries like Redux can help and also the cases when they bring more harm than advantage. I don't believe that Context API is a replacement for Redux.  
