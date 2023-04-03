@@ -82,7 +82,9 @@ I joined Embase team to help with migrating existing web application to modern t
 -	Worked closely with UX/PO to make sure the best user experience is provided.
 -	Established a culture of using front-end prototypes for new features to better communicate requirements with UX/PO and get early user feedback.
 -	Increased test coverage from 30% to 85+%. Held the initiative of popularizing testing practices in general among colleagues.
--	Major contributor to the library of React UI components that implements the company design system. The integration portfolio includes several marketed products (Embase.com, Pharmapendium.com and others). The library significantly reduced the time needed to maintain consistent look and behavior of UI components across multiple products including both development and design efforts. GitHub repository was configured to automatically send release notifications to dedicated Slack channel. **Technical stack:** TypeScript, React, Rollup, CSS Modules, Storybook. 
+-	Major contributor to the library of React UI components that implements the company design system. The integration portfolio includes several marketed products (Embase.com, Pharmapendium.com and others). The library significantly reduced the time needed to maintain consistent look and behavior of UI components across multiple products including both development and design efforts. GitHub repository was configured to automatically send release notifications to dedicated Slack channel. 
+**Technical stack:** TypeScript, React, Rollup, CSS Modules, Storybook. 
+<img src="https://user-images.githubusercontent.com/31930545/229517451-2bcb5d61-c771-44b7-ab80-10b4246700d2.png" width="50%"/>
 
 ## Senior Front-End Engineer, 2018 – 2020
 ### Quosa, Elsevier, Saint-Petersburg, Russia
