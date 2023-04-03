@@ -1,6 +1,6 @@
 # About
 Hello, my name is Mikhail Molchanov. I'm experienced software developer specializing in building modern Web applications using Typescript and React.
-At the moment I work as Senior Front-End Engineer (contractor) at [Embase](https://www.elsevier.com/solutions/embase-biomedical-research)
+For the time being I work as Senior Front-End Engineer (contractor) at [Embase](https://www.elsevier.com/solutions/embase-biomedical-research)
 partnering closely with an international team located in Amsterdam. 
 
 Contact me:
