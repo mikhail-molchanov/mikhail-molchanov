@@ -146,7 +146,7 @@ Scoreboard administration console for St.Petersburg Open Tennis Cup:
 ### Programming Languages Evolution
 Basic > Delphi Pascal > C# > C++ > JavaScript > TypeScript 
 
-### Technologies I wish I could be better or have some / more experience with
+### Technologies I wish I could be better at or have some / more experience with
 - Micro-frontends
 - Alternative state management libraries (e.g MobX, Jotai)
 - Other UI frameworks (Vue, Svelte)
