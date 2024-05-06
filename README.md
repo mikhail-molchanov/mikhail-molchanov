@@ -40,7 +40,7 @@ Contact me:
 
 ## UX
 - Good understanding of usability principles. Experience in responsive layouts and prototyping interfaces. Experience in customer interviews.
-- Follow basic accessibility principles for every new feature. Make sure all UI elements can be accessed / navigated from keyboard.
+- Follow basic accessibility principles for every new feature. Make sure all UI elements can be accessed / navigated from keyboard, proper semantic markup is used. Certified web accessibility specialist [Deque University](https://dequeuniversity.com/). Primary tools for accessibility testing: Axe plugins and NVDA.    
 
 ## Tools
 - My IDE of preference is VS Code (+plugins). I had some painful transition period from Intellij IDEA but now I'm extremely satisfied with its features, speed and how the product is developing over the years. 
@@ -145,6 +145,14 @@ Scoreboard administration console for St.Petersburg Open Tennis Cup:
 
 ### Programming Languages Evolution
 Basic > Delphi Pascal > C# > C++ > JavaScript > TypeScript 
+
+### Technologies I wish I could be better or have some / more experience with
+- Micro-frontends
+- Alternative state management libraries (e.g MobX, Jotai)
+- Other UI frameworks (Vue, Svelte)
+- Web Components
+- Web Sockets
+- SSR-enabled React frameworks (e.g. Next.js)
 
 # What Else?
 - I'm married, we have two little daughters that are already quite proficient at annoying the hell out of us. They can be sweetest angels too.  
