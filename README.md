@@ -8,6 +8,7 @@ Contact me:
 - E-mail: mikhail.molchanov@gmail.com
 - Skype: mikhail.molchanov
 - Mobile: +7 921 845 5257 (GMT+3)
+- Languages: Russian (native), English (upper intermediate)
 
 # Summary
 15+ years in the industry of creating, migrating, and maintaining reliable software solutions. I focus on product quality, delivery schedule and long-term maintainability. I believe myself to be good at establishing best coding practices. I have a keen eye for details that helps to improve product consistency. I'm passionate about building great UIs through small and predictable iterations based on customers feedback.
