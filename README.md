@@ -13,7 +13,7 @@ Contact me:
 # Summary
 15+ years in the industry of creating, migrating, and maintaining reliable software solutions. I focus on product quality, delivery schedule and long-term maintainability. I believe myself to be good at establishing best coding practices. I have a keen eye for details that helps to improve product consistency. I'm passionate about building great UIs through small and predictable iterations based on customers feedback.
 
-# Personality Traits
+# Personality traits
 - **Responsibility.** I take full ownership of assigned tasks and features regardless of their size and importance.
 - **Transparency.** I communicate clearly and timely the state of development process: pending questions, blocking problems, insufficient expertise, possible workarounds etc. 
 - **Persistance.** I make sure development time is stable and predictable. Staying positive while overcoming difficulties is an essential skill. I'm not afraid to say that I don't know something or stuck at the moment, it's just a matter of planning for more iterations.     
@@ -41,7 +41,7 @@ Contact me:
 
 ## UX
 - Good understanding of usability principles. Experience in responsive layouts and prototyping interfaces. Experience in customer interviews.
-- Follow basic accessibility principles for every new feature. Make sure all UI elements can be accessed / navigated from keyboard, proper semantic markup is used. Certified web accessibility specialist [Deque University](https://dequeuniversity.com/). Primary tools for accessibility testing: Axe plugins and NVDA.    
+- Follow basic accessibility principles for every new feature. Make sure all UI elements can be accessed / navigated from keyboard, proper semantic markup is used. Certified web accessibility specialist ([Deque University](https://dequeuniversity.com/)). Primary tools for accessibility testing: Axe plugins and NVDA.    
 
 ## Tools
 - My IDE of preference is VS Code (+plugins). I had some painful transition period from Intellij IDEA but now I'm extremely satisfied with its features, speed and how the product is developing over the years. 
@@ -54,7 +54,7 @@ Contact me:
 - Experience in legacy browsers support (IE9 mainly) and migration of legacy code bases to React.
 - Understand that small things do matter. Starting from naming function, variables, routes and API endpoints to text wording, consistent language, truncations, paddings, responsiveness etc.
 
-# Technical Stack
+# Technical stack
 - TypeScript, JavaScript
 - React JS, React Router, Redux, Redux Observables, Redux Toolkit, react-use
 - React Table, Final Form
@@ -71,7 +71,7 @@ Contact me:
 - Jenkins, SonarQube
 - Postman
 
-# Work Experience (Web Development)
+# Work experience (web development)
 ## Senior Front-End Engineer,	2020 – Present
 ### Embase, Elsevier, Remote
 
@@ -109,7 +109,7 @@ An online tool for monitoring and performing periodic research (ICSR, PSUR) over
 - Customization of complex workflows depending on customer needs.
 - Worked in traditional Agile environment, short experience as Interim Scrum Master and Head of Development. 
 
-# Work Experience (Desktop Applications)
+# Work experience (desktop applications)
 ## Software Developer, 2008 - 2014
 ### Retek, Saint-Petersburg, Russia
 Quosa, a desktop productivity tool for searching, analyzing, managing and sharing bibliographic records.
@@ -135,7 +135,7 @@ Scoreboard administration console for St.Petersburg Open Tennis Cup:
 - Technical stack: Delphi, Pascal, COM.
 - Developed client application that increased efficiency of propagating current game score to both stadium's scoreboard (through COM port) and tournament's online statistics (via HTTP). The app has successfully run for several years requiring zero maintenance efforts.
 
-# How I Work
+# How I work
 - **Motivation**. I do like to feel the impact of my work. It shouldn't be always direct increase in company's revenue or users satisfaction. It is also small things like ensuring the consistency of requirements  or an extra comment in the source code help my colleagues to save their time or efforts.   
 - **Engineer first**. While the *engineer* and *developer* terms are widely interchangeable these days I like the former more since it communicates clear purpose of *solving technical problems*. That's why my preferred way of starting discussions about new features is to talk about the problems we are aiming to solve for the users. More often than not introducing mockups and diving into details they bring in the early stages actually distracts us from understanding important things like general value, dependencies, data flow.
 - **Focus.** I'm not a great multi-tasker. Usually I don't bring much value in brainstorming sessions. I prefer to have a plan and work according to it mostly offline. I would rather skip a meeting where I'm not a mandatory attendee and focus on things where my expertise belongs.  
@@ -144,7 +144,7 @@ Scoreboard administration console for St.Petersburg Open Tennis Cup:
 - **Prototypes**. Encourage UX / designers to save their time doing pixel-perfect mockups. Instead, let's come up with patterns / design systems that we can use as a dictionary to communicate core business values and ideas behind every page / feature in a more productive way. If it is easier to make a prototype on the front-end side and then work out from there - let’s do it. It takes time but it pays off in the long term.
 - **Remote work.** I have 3+ years experience of working fully remote. While it proved to have no impact on productivity and delivery schedule it makes you miss people in the office a lot. The best option would be to have flexible schedule that imply having important discussions face-to-face and occasional socialization in the office while regular work activities could be held remotely.
 
-### Programming Languages Evolution
+### Programming languages evolution
 Basic > Delphi Pascal > C# > C++ > JavaScript > TypeScript 
 
 ### Technologies I wish I could be better at or have some / more experience with
@@ -155,7 +155,7 @@ Basic > Delphi Pascal > C# > C++ > JavaScript > TypeScript
 - Web Sockets
 - SSR-enabled React frameworks (e.g. Next.js)
 
-# What Else?
+# What else?
 - I'm married, we have two little daughters that are already quite proficient at annoying the hell out of us. They can be sweetest angels too.  
 - We enjoy going out in nature with light off-road adventures.
 - I can talk a bit about photography and lenses but my pictures are slightly less impressive.   
