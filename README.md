@@ -4,7 +4,7 @@ For the time being I work as Senior Front-End Engineer (contractor) at [Embase](
 partnering closely with an international team located in Amsterdam. 
 
 Contact me:
-- Linkedin: [Mikhail Molchanov](https://www.linkedin.com/in/mikhail-v-molchanov/)
+- LinkedIn: [Mikhail Molchanov](https://www.linkedin.com/in/mikhail-v-molchanov/)
 - E-mail: mikhail.molchanov@gmail.com
 - Skype: mikhail.molchanov
 - Mobile: +7 921 845 5257 (GMT+3)
