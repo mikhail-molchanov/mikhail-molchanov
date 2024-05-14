@@ -77,6 +77,7 @@ Contact me:
 
 [Embase](https://www.elsevier.com/solutions/embase-biomedical-research) is an industry standard for biomedical research allowing to build, perform, and persist search strategies of great complexity across biomedical databases, work with search results and hierarchical data, set up email alerts and share findings. 
 I joined Embase team to help with migrating existing web application to modern technology stack and make it consistent with company’s global design system:
+- **Technical stack:** TypeScript, React (functional components, React Router 6.x), CRA, Final Form, Axios, SASS + CSS Modules, Storybook, React Testing Library, Mock Service Worker. 
 -	Migrated legacy parts of the web-app (Backbone, Angular) to React in a granular manner allowing to run legacy and new code in parallel. Focus on responsiveness and accessibility.
 - Developed new features:  
   - [PubMed to Embase query syntax translator](https://www.linkedin.com/posts/michelle-hiltebrand-mohsenin-26219297_embase-how-to-use-the-new-pubmed-to-embase-activity-7141054349085954049-K-nP?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy) integrated with Embase Emtree taxonomy, the tool got positive feedback from the audience. 
@@ -96,7 +97,7 @@ I joined Embase team to help with migrating existing web application to modern t
 ### Quosa, Elsevier, Saint-Petersburg, Russia
 
 A modern re-think of a popular literature sharing and management desktop tool:
-- Technical stack: React, TypeScript, Redux, Redux Observables / Redux Toolkit, CSS + BEM
+- **Technical stack**: React, TypeScript, Redux, Redux Observables / Redux Toolkit, CSS + BEM
 - Supported full cycle of developing the idea into MVP and making it a market-ready solution
 - Shared key expertise in the domain of the legacy app with other parties to make sure new product will only inherit the best parts.
 
@@ -104,7 +105,7 @@ A modern re-think of a popular literature sharing and management desktop tool:
 ### Pharmacovigilance, Elsevier, Saint-Petersburg, Russia
 
 An online tool for monitoring and performing periodic research (ICSR, PSUR) over medical resources related to adverse effects:
-- Technical stack: AngularJS, JavaScript, HTML5
+- **Technical stack**: AngularJS (1.x), JavaScript, HTML5
 - Implemented critical parts of the app: Dashboards, Backlogs management, Review, Document Delivery and Administration.
 - Customization of complex workflows depending on customer needs.
 - Worked in traditional Agile environment, short experience as Interim Scrum Master and Head of Development. 
@@ -113,7 +114,7 @@ An online tool for monitoring and performing periodic research (ICSR, PSUR) over
 ## Software Developer, 2008 - 2014
 ### Retek, Saint-Petersburg, Russia
 Quosa, a desktop productivity tool for searching, analyzing, managing and sharing bibliographic records.
-- Technical stack: C++, WinAPI, MFC, Lucene.
+- **Technical stack**: C++, WinAPI, MFC, Lucene.
 - Developed new features both Windows desktop application and web browser plugin.
 - Designed and implemented advanced technique for publishing multiple lists of records in parallel which allowed to unlock the UI during time-consuming operations.
 - Maintained parser engines for popular online databases like Pubmed, Ovid and Embase that enabled offline access for records found through native search interface.  
@@ -122,7 +123,7 @@ Quosa, a desktop productivity tool for searching, analyzing, managing and sharin
 ### Eureca, Saint-Petersburg, Russia
 
 Stationary and portable health monitoring complexes with telemedicine services support for hospitals:
-- Technical stack: C#, Microsoft .NET, MS SQL, WinAPI.
+- **Technical stack**: C#, Microsoft .NET, MS SQL, WinAPI.
 - Developed client part of the application including visual design.
 - Suggested effective approach for data replication.
 - Developed an administrative application for monitoring alive state of database servers.
@@ -132,7 +133,7 @@ Stationary and portable health monitoring complexes with telemedicine services s
 ### Impuls, Saint-Petersburg, Russia
 
 Scoreboard administration console for St.Petersburg Open Tennis Cup:
-- Technical stack: Delphi, Pascal, COM.
+- **Technical stack**: Borland Delphi, Pascal, COM.
 - Developed client application that increased efficiency of propagating current game score to both stadium's scoreboard (through COM port) and tournament's online statistics (via HTTP). The app has successfully run for several years requiring zero maintenance efforts.
 
 # How I work
