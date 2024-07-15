@@ -4,6 +4,7 @@ Some requirements / aspect of web app functionality can be routinely overlooked 
 
 ## Browser window title
 - What pattern should browser page (tab) title follow for application pages? E.g. `<Page name> - <Product name>`.
+- Meta `description` text (SEO)
 
 ## UI state persistance
 - Should the page state be preserved when page is reloaded? Examples:  
